@@ -11,7 +11,7 @@ $RECYCLE.BIN/
 UserInterfaceState.xcuserstate
 
 # ===============================================
-# Logs e diagnósticos
+# Logs e Diagnósticos
 # ===============================================
 *.log
 log.txt
@@ -21,57 +21,42 @@ libpeerconnection.log
 testem.log
 
 # ===============================================
-# Ambiente de Desenvolvimento
-# ===============================================
-/.sourcemaps
-/.versions
-/.angular
-/.angular/cache
-/.nx
-/.nx/cache
-/.ionic
-/.sass-cache
-/.history/
-/connect.lock
-
-# ===============================================
 # Dependências e Build
 # ===============================================
 /node_modules/
 /dist/
 /tmp/
 /out-tsc/
-/bazel-out/
 /coverage/
-/typings/
 
 # Ionic/Capacitor
 /www/
 /platforms/
-/plugins/
 /android/
 /ios/
+/.capacitor/
+
+# ===============================================
+# Ambiente de Desenvolvimento
+# ===============================================
+/.sourcemaps
+/.versions
+/.angular/
+/.nx/
+/.sass-cache
+/.history/
 
 # ===============================================
 # IDEs e Editores
 # ===============================================
 .idea/
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-*
-
-# VS Code (exceto configurações essenciais)
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensions.json
 
 # ===============================================
-# Arquivos específicos do projeto (opcionais)
+# Arquivos Opcionais (ajuste conforme necessidade)
 # ===============================================
-# package-lock.json  # Descomente se não quiser versionar
-# yarn.lock          # Descomente se não quiser versionar
+# package-lock.json   # Mantenha versionado para consistência!
+# yarn.lock          # Se usar Yarn
