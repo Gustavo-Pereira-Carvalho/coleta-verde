@@ -24,7 +24,7 @@ E onde prestadores de serviço possam:
 
 - **Ionic Framework** (mobile híbrido)
 - **Angular** (estrutura do app)
-- **MongoDb** – Banco de dados
+- **MongoDB** – Banco de dados
 - **ViaCEP API** – Consulta automática de endereços via CEP
 
 ---
@@ -35,8 +35,10 @@ E onde prestadores de serviço possam:
 - Sistema de autenticação com JWT
 - Cadastro de endereços
 - Solicitação de coleta com descrição, valor e agendamento
+- Tela de carteira com saldo, extrato e solicitação de saque
 - Lista de solicitações abertas para prestadores aceitarem
 - Histórico de serviços
 - Avaliação e feedback após a coleta
 
 ---
+
