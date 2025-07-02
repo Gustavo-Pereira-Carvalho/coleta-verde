@@ -42,3 +42,38 @@ E onde prestadores de serviço possam:
 
 ---
 
+
+## 📷 Capturas de Tela
+
+> As imagens abaixo são ilustrativas. Substitua pelos prints reais na pasta `./screenshots/`.
+
+### Tela de Solicitação de Coleta (Empresa)
+![Solicitação de Coleta](./screenshots/solicitacao.png)
+
+### Tela Home da Empresa
+![Home da Empresa](./screenshots/home-empresa.png)
+
+### Tela de Carteira do Prestador
+![Carteira do Prestador](./screenshots/carteira.png)
+
+---
+
+## 👨‍💻 Minha participação no projeto
+
+Fui responsável pelo desenvolvimento de telas essenciais para a experiência do usuário:
+
+- 🟢 **Tela de Solicitação de Coleta** (empresas preenchem dados do serviço)
+- 🏠 **Tela Home da Empresa**
+- 💼 **Tela de Carteira do Prestador**, com saldo acumulado, botão de saque, extrato (com dados fictícios no momento)
+
+---
+
+## 🧪 Status do projeto
+
+🚧 Em desenvolvimento contínuo — melhorias em andamento.
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos. Todos os direitos reservados © 2025 Gustavo Pereira Carvalho.
